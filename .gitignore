@@ -49,17 +49,7 @@ cython_debug/
 
 # Data
 data/**/*.csv
-data/**/*.min
-data/**/*.txt
-data/**/*.pickle
-data/**/*.parquet
-data/**/*.netcdf
-
-# CatBoost model stuff
-jupyters/catboost_info/*
-
-# MLFlow stuff (commit only a specific model)
-# /mlruns/*
+# data/**/*.parquet
 
 # Markdown
 # *.md
