@@ -1,0 +1,10 @@
+[project]
+name = "scintill-ai-web-app"
+version = "0.1.0"
+description = ""
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.2.0",
+    "plotly>=5.24.1",
+    "taipy>=4.0.0"
+]
