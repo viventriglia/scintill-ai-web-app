@@ -9,7 +9,7 @@ A research project aiming to apply machine learning models for regional Global N
 
     - [Spin up a container 🐋](#spin-up-a-container-)
 
-    - [Connect to the cloud ☁️ (it may be slow 🐌)](#connect-to-the-cloud-)
+    - [Connect to the cloud ☁️](#connect-to-the-cloud-)
 
 ## What is it?
 
@@ -29,6 +29,8 @@ The appearance of scintillation is often deemed unpredictable. It varies through
 
 - Run a container and expose it on a preferred port (for example, 8080): `docker run --rm -p 8080:5000 scintill-ai-web-app`
 
-### Connect to the cloud ☁️ (it may be slow 🐌)
+### Connect to the cloud ☁️
+
+⚠️ The web app may be slower 🐌
 
 - Access the [cloud instance](https://scintill-ai-web-app.onrender.com/)
