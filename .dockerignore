@@ -3,4 +3,5 @@ __pycache__/
 *.md
 Dockerfile
 LICENSE
+README.md
 .gitignore
